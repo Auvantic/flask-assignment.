@@ -1,0 +1,1 @@
+Assignment is locked so i cant view what you wanted (description wise) so im just doing what i recall from the in class time and the few pictures I have, the flask server runs and the code for the form works aswelL.
